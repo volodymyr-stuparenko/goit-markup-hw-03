@@ -338,7 +338,7 @@ p {
 .port-item {
     width: 360px;
     height: 420px;
-    width: calc((100%-48px)/3);
+    width: calc((100%-48px) /3);
 }
 
 .port-cards {
